@@ -339,6 +339,6 @@ Always verify SUID bits (`-rwsr-xr-x`) on the payload binary after creating the 
 
 ---
 
-*Write-up author: [Your Name]*
+*Write-up author: [Luiz Gustavo Santos Veríssimo]*
 *Machine retired: TBD | Season 10: Underground*
 *Published in accordance with HackTheBox responsible disclosure guidelines.*
