@@ -1,7 +1,7 @@
 # GiveBack — Hack The Box Writeup
 
-**Author:** k1ph4ru  
-**Difficulty:** Medium  
+**Author of Write-Up:** luizgsv  
+**Difficulty of the machine:** Medium  
 **OS:** Linux  
 **Date:** February 2026
 
@@ -359,3 +359,4 @@ The **root flag** is retrieved, completing the machine.
 ---
 
 *This document was prepared for educational purposes as part of the Hack The Box platform.*
+Author: luizgsv
